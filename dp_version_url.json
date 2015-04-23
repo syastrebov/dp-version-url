@@ -1,0 +1,25 @@
+{
+  "builds": [
+    {
+      "name": "4.6 Beta",
+      "build": 1424353727,
+      "build_num": "486",
+      "download_url": "http://www.deskpro.com/downloads/abc.zip",
+      "sha256": "..."
+    },
+    {
+      "name": "4.8",
+      "build": 1424353927,
+      "build_num": "488",
+      "download_url": "http://www.deskpro.com/downloads/edc.zip",
+      "sha256": "..."
+    },
+    {
+      "name": "4.7",
+      "build": 1424353827,
+      "build_num": "487",
+      "download_url": "http://www.deskpro.com/downloads/cde.zip",
+      "sha256": "..."
+    }
+  ]
+}
