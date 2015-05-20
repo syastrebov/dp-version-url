@@ -1,21 +1,35 @@
 {
   "builds": [
     {
-      "name": "4.1",
+      "name": "404.2",
+      "build": 1432048175,
+      "build_num": "404.2",
+      "download_url": "http://www.deskpro.com/members/builds/1432048175/deskpro.zip",
+      "sha256": "7f00b7a1cc928b6bc0c55a64b6475a2a2b8c127b3ec56bb485a49cdf283c1994"
+    },
+    {
+      "name": "401.2",
+      "build": 1430576963,
+      "build_num": "401.1",
+      "download_url": "http://www.deskpro.com/members/builds/1430576963/deskpro.zip",
+      "sha256": "7f00b7a1cc928b6bc0c55a64b6475a2a2b8c127b3ec56bb485a49cdf283c1994"
+    },
+    {
+      "name": "401.1",
       "build": 1427114426,
       "build_num": "401.1",
       "download_url": "http://www.deskpro.com/members/builds/1427114426/deskpro.zip",
       "sha256": "7f00b7a1cc928b6bc0c55a64b6475a2a2b8c127b3ec56bb485a49cdf283c1994"
     },
     {
-      "name": "3.2",
+      "name": "322.2",
       "build": 1426703171,
       "build_num": "322.1",
       "download_url": "http://www.deskpro.com/members/builds/1426703171/deskpro.zip",
       "sha256": "..."
     },
     {
-      "name": "2.1",
+      "name": "201.1",
       "build": 1400056608,
       "build_num": "210.1",
       "download_url": "http://www.deskpro.com/downloads/cde.zip",
